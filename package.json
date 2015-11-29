@@ -1,0 +1,19 @@
+{
+  "name": "fe-laboratory",
+  "version": "0.0.1",
+  "description": "Just for test the new feature of any idea",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "node index.js"
+  },
+  
+  "author": "XU Kai (xukai.ken@gmail.com)",
+  "license": "MIT",
+  
+  "dependencies": {
+  },
+  "devDependencies": {
+    "serve": 
+  }
+}
