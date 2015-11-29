@@ -7,7 +7,7 @@
 			"request": "launch",
 			"program": "node_modules/serve/bin/serve",
 			"stopOnEntry": false,
-			"args": ["./"],
+			"args": ["./", "-L"],
 			"cwd": ".",
 			"runtimeExecutable": null,
 			"runtimeArgs": [
