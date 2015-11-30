@@ -6,9 +6,10 @@
  * 
  */
 
-require(['plugin/cjs!foo', 'stair!jquery/0.0.1'], function (foo, $) {
+require(['stair!@waimai/demo@1.0.1'], function (foo) {
   
   'use strict';
 
-  debugger;
+  console.log(foo);
+  
 });
