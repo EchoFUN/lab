@@ -19,7 +19,11 @@
         baseUrl: '/mule/module/',
         
         bridge: '//localhost:3001',
-        waitSeconds: 20
+        waitSeconds: 20,
+        
+        onBuildWrite: function(name, path, contents ) {
+          debugger;
+        }
       })  
     </script>
   </body>

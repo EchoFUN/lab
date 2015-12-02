@@ -14,6 +14,11 @@
   "dependencies": {
   },
   "devDependencies": {
-    "serve": "~1.4.0"
+    "serve": "~1.4.0",
+    
+    "request": "~2.67.0",
+    "amdlib": "0.0.26",
+    
+    "requirejs": "~2.1.22"
   }
 }

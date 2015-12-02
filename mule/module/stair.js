@@ -8,14 +8,7 @@ define(function () {
         onload(content);
       });
     },
-    
-    write: function(plugin, module, write) {
-      write('fuck the bitch !');
-    },
-    
-    writeFile: function () {
-      debugger;
-      console.log(arguments);
-    }
+
+    write: function (plugin, module, write) { write('define(["toto"])'); }
   };
 })

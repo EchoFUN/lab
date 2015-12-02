@@ -2,7 +2,7 @@ define(function() {
   
   
   return {
-    a: '1'
+    a: '12343123123124141'
   };
   
 });
