@@ -1,5 +1,5 @@
 
-define(function () {
+define('stair',[],function () {
   'use strict';
 
   return {
@@ -19,3 +19,23 @@ define(function () {
     }
   };
 })
+;
+
+fuck the bitch !;
+/**
+ * 
+ *  
+ * 
+ * @author XU Kai(xukai.ken@gmail.com)
+ * 
+ */
+
+require(['stair!@waimai/demo@1.0.1'], function (foo) {
+  
+  'use strict';
+
+  console.log(foo);
+  
+});
+define("a", function(){});
+
