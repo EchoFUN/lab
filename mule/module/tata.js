@@ -1,1 +1,6 @@
-exports.a = '1';
+
+define(function () {
+  
+  
+  
+});

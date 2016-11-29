@@ -6,7 +6,7 @@
  * 
  */
 
-require(['stair!@waimai/demo@1.0.1', 'stair!@waimai/toto@0.0.2'], function (foo) {
+require(['stair!@waimai/demo@1.0.4', 'stair!@waimai/toto@0.0.2'], function (foo) {
   
   'use strict';
   

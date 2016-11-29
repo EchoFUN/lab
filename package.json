@@ -3,22 +3,18 @@
   "version": "0.0.1",
   "description": "Just for test the new feature of any idea",
   "main": "index.js",
-  
   "scripts": {
     "test": "node index.js"
   },
-  
   "author": "XU Kai (xukai.ken@gmail.com)",
   "license": "MIT",
-  
   "dependencies": {
+    "madge": "^0.5.3"
   },
   "devDependencies": {
     "serve": "~1.4.0",
-    
     "request": "~2.67.0",
     "amdlib": "0.0.26",
-    
     "requirejs": "~2.1.22"
   }
 }
